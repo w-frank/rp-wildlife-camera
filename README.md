@@ -6,6 +6,7 @@ A simple, remote wildlife camera system, powered by the Raspberry Pi and iPhone.
 
 **Raspberry Pi**
 * Refactor code
+* Save log to folder on USB
 
 **iOS**
 * Change button text colour depending on state
