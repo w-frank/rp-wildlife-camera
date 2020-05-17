@@ -13,21 +13,4 @@ A simple, remote wildlife camera system, powered by the Raspberry Pi and iPhone.
 * Disable buttons depending on state
 * Improve UI aesthetic
 
-## Getting Started
 
-## Prerequisites
-
-## Installing
-
-## Deployment
-
-## Built With
-
-## Authors
-
-* **Will Frank** - *Initial work* - [Will Frank](https://github.com/w-frank)
-
-## Licence
-This project is licensed under the GPL 3.0+ Licence.
-
-## Acknowledgements
