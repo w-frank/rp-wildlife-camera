@@ -54,7 +54,7 @@ while True:
             logging.info('Saving to /mnt/usb/videos/')
             output_video = '/mnt/usb/videos/{}.mp4'.format(timestamp)
         else:
-            loggin.info('USB drive not mounted')
+            logging.info('USB drive not mounted')
         call(['MP4Box', '-add', input_video, output_video])
         time.sleep(10)
     print('Motion ended')
