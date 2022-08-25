@@ -1,6 +1,6 @@
 # Raspberry Pi Wildlife Camera
 
-A simple, remote wildlife camera system, powered by the Raspberry Pi and iPhone. 
+A wildlife camera system, powered by the Raspberry Pi and iPhone. 
 
 ## To Do
 
